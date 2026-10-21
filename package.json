@@ -1,0 +1,9 @@
+{
+  "name": "outcomechad-sports-v2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OutcomeChad Sports football platform",
+  "engines": {
+    "node": "22.x"
+  }
+}
